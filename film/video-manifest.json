@@ -1,0 +1,26 @@
+{
+  "title": "Broken Beat Chord Lab",
+  "study": "bcl01",
+  "bpm": 116,
+  "source_audio": "preview/broken-beat-chord-lab-simple-synth-preview.mp3",
+  "source_audio_sha256": "65d97a27989c8a0eb5479d76f5670ebd2018b349e8b71db8118d5a0c682da77e",
+  "source_midi": "midi/bcl01-blue-fragment/bcl01-blue-fragment-combined.mid",
+  "source_midi_sha256": "e9f0601fd27221e3a0cc516986893983342c944ef5935762f446b77829219c77",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "522af5407995dbd355023ee41ece795c1b6b445ffffb9f2cd8e58c305dd103ac",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "ff6c74bfeb38205267cfd9cfcc256fac45758aeae728bea5a81fbcd3e51fee51",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "e5787de7676374ca7cfd921be9fc75ac15818380918396d620fa7f464d389622",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

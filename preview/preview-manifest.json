@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/broken-beat-chord-lab-simple-synth-preview.mp3",
+  "preview_sha256": "65d97a27989c8a0eb5479d76f5670ebd2018b349e8b71db8118d5a0c682da77e",
+  "source_midi_path": "midi/bcl01-blue-fragment/bcl01-blue-fragment-combined.mid",
+  "source_midi_sha256": "e9f0601fd27221e3a0cc516986893983342c944ef5935762f446b77829219c77",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "bcl01",
+    "start_seconds": 0,
+    "end_seconds": 66.207
+  },
+  "measurement": {
+    "sample_peak": 0.126999,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
