@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/broken-beat-chord-lab-midi.zip",
-      "bytes": 31327,
-      "sha256": "15b3a0213f6f9ff180338481993297cb1d98222d4925e8a54c2d31f085c3c2e2"
+      "bytes": 33494,
+      "sha256": "375506daa4d40f786a5c210c9c48f1940bb09e40d903476cfc0ab86556b2ac8a"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9550,
-      "sha256": "29d8221a49a7c066152cd8373e890f0ab8ffe6f8ed9713378bfd0a11762f3adb"
+      "bytes": 9740,
+      "sha256": "d4494cf132bd323511f1aa3cb9b5ad2d671ca58184686b54abf9c6f1cef8591b"
     },
     {
       "path": "midi/bcl01-blue-fragment/bcl01-blue-fragment-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "67b3057ac5a21ddb3be680d08fb70b8817a65d0d7fce5f005c5d4ff6d5d0a91f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/broken-beat-chord-lab-simple-synth-preview.mp3",
       "bytes": 1602499,
       "sha256": "65d97a27989c8a0eb5479d76f5670ebd2018b349e8b71db8118d5a0c682da77e"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3899,
-      "sha256": "d5eadb9c06e4cda50fc17e93609c585546ada1ca56d8869f14d1802faae09fde"
+      "bytes": 4014,
+      "sha256": "dded5d0e4f7ab11714caa660889712ad4423a9884d28845af6fcee6234b8ad45"
     },
     {
       "path": "social/instagram/caption.txt",
